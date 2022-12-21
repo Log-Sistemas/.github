@@ -9,5 +9,3 @@ Este é o repositório oficial da Log sistemas e de seus produtos, aqui você en
 * etc
 
 Have fun!
-
--->
