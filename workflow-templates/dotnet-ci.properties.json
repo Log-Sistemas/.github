@@ -1,0 +1,11 @@
+{
+    "name": "Log sistemas dotnet ci pipeline",
+    "description": "This workflow will build, publish and upload generated artifacts",
+    "categories": [
+        "dotnet",
+        "C#"
+    ],
+    "filePatterns": [
+        "ASP.NET"
+    ]
+}
