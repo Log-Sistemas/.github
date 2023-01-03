@@ -22,13 +22,13 @@ jobs:
         dotnet-version: 6.0.x
         
     - name: Restore dependencies
-      run: dotnet restore "src/LogSistemas.Domynus.Api/LogSistemas.Domynus.Api.csproj"
+      run: dotnet restore "src/...csproj"
       
     - name: Build
-      run: dotnet build --no-restore "src/LogSistemas.Domynus.Api/LogSistemas.Domynus.Api.csproj" -c Release
+      run: dotnet build --no-restore "src/...csproj" -c Release
       
     - name: Publish
-      run: dotnet publish "src/LogSistemas.Domynus.Api/LogSistemas.Domynus.Api.csproj" -c Release -o ${{ github.workspace }}/publish
+      run: dotnet publish "src/...csproj" -c Release -o ${{ github.workspace }}/publish
       
     - name: Upload published files
       uses: actions/upload-artifact@v3.1.1
