@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-Este é o repositório oficial da Log sistemas e de seus produtos, aqui você encontrará tudo o que precisa para o desenvolvimento: 
+Este é o repositório oficial da Log sistemas.
 
-* Código dos projetos
-* Documentações
-* Treinamentos
-* Manuais 
-* etc
-
-Have fun!
+Fale conosco através dos nossos [contatos](https://www.logsistemas.com.br/#contato).
